@@ -20,3 +20,5 @@ The first dataset is a list of all network supply points on the New Zealand elec
 The second dataset contains historical electricity generation data in New Zealand of all power stations, along with their respective fuel type.
 
 **Link**: <https://www.emi.ea.govt.nz/Wholesale/Datasets/Generation/Generation_MD/202211_Generation_MD.csv>
+
+This link only contains generation information November 2022, which is sufficient for this project. However, for my primary research I had to extract these monthly files dating back to January 2011, which is a longer procedure. Thankfully, the files are names in a consistent format (such as 202211_Generation_MD.csv), which made the extraction procedure relatively easy.
