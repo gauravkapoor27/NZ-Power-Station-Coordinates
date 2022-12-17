@@ -2,7 +2,7 @@
 
 ## Aim
 
-To identify geographical coordinates of all hydro and wind stations in New Zealand.  
+To identify and visualize the geographical coordinates of all hydro and wind stations in New Zealand.
 
 This project is a smaller part of my PhD research in electricity price forecasting. It allows me to identify key regions in New Zealand where measurements of weather variables are important. In particular, I want to access wind speed and wind direction data near wind farms, and precipication data near hydroelectric stations.
 
