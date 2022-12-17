@@ -22,3 +22,9 @@ The second dataset contains historical electricity generation data in New Zealan
 **Link**: <https://www.emi.ea.govt.nz/Wholesale/Datasets/Generation/Generation_MD/202211_Generation_MD.csv>
 
 This link only contains generation information November 2022, which is sufficient for this project. However, for my primary research I had to extract these monthly files dating back to January 2011, which is a longer procedure. Thankfully, the files are names in a consistent format (such as 202211_Generation_MD.csv), which made the extraction procedure relatively easy.
+
+## Result
+
+Using the data above, I was able to identify the coordinates of all windfarms and hydroelectric power stations in New Zealand. I have attached a visualization below. Please see the notebook file for the main results of this project.
+
+![Geographical location of wind farms and hydroelectric stations in New Zealand](figures/location.png)
